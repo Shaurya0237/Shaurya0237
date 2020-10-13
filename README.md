@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 Shaurya Kaushal 
-
-Here are some ideas to get you started:
+Welcome to my Profile - 
 
 - 🔭 I’m currently working on Web Development, Android App Development.
 - 🌱 I’m currently learning Java,C,Web Development,Android Studio,AWS Cloud Services,Google Cloud Platform.
