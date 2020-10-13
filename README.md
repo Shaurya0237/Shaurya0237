@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Shaurya Kaushal 
-Welcome to my Profile - 
+--------Shaurya Kaushal--------
+- 
 
 - 🔭 I’m currently working on Web Development, Android App Development.
 - 🌱 I’m currently learning Java,C,Web Development,Android Studio,AWS Cloud Services,Google Cloud Platform.
